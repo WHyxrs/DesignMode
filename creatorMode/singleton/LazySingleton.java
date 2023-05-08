@@ -15,5 +15,4 @@ public class LazySingleton {
         }
         return INSTANCE;
     }
-
 }
