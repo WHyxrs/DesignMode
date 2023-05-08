@@ -8,4 +8,5 @@ package singleton;
  */
 public enum EnumSingleton {
     SINGLETON;
+
 }
