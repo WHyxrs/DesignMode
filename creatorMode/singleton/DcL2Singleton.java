@@ -19,4 +19,5 @@ public class DcL2Singleton {
         }
         return INSTANCE;
     }
+
 }
