@@ -16,4 +16,5 @@ public class HungrySingleton {
     public static HungrySingleton getInstance() {
         return INSTANCE;
     }
+
 }
