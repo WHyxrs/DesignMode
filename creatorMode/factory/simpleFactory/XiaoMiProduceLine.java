@@ -11,4 +11,5 @@ public class XiaoMiProduceLine implements PhoneProduceLine {
     public void create() {
         System.out.println("生产小米手机");
     }
+
 }
