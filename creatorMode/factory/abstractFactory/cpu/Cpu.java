@@ -17,4 +17,5 @@ public interface Cpu {
      * cpu 过载
      */
     void cpuOverload();
+
 }
